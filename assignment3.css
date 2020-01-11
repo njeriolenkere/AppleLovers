@@ -1,0 +1,405 @@
+
+body{
+ 
+  margin: 0px;
+  padding: 0px;
+  
+}
+#container {
+    width: 1172px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 0px;
+    position: relative;
+  }
+header.head {
+  overflow: hidden;  
+}
+ .image {
+  text-align: center;
+  padding-top: 10px;
+     margin: 0px;
+     width: 100%;
+     height: 88px;
+     margin-top: 44px;
+  }
+   div.mainmenu{
+     text-align: center;
+     width: 1172px;
+     margin: 0px 0px 88px 0px;
+     padding-top: 5px;
+     padding-bottom: 3px;
+     border-top: 2px solid #eeeeee;
+     border-bottom: 2px solid #eeeeee;
+    height: 44px;
+   }
+     .link1 {
+    text-decoration: none;
+    color: #000000;
+    margin: 10px;
+  }
+  #lid  {
+    overflow: hidden;
+    position: relative;
+    width: 746px;
+    float: left;
+    margin-right: 88px;
+    height: 1958px;
+  }
+  .topimage {
+  margin: 0px;
+  position: relative;
+}
+
+.topimage2 {
+  border: 2px solid #eeeeee;
+}
+.topimage:hover:before{
+content: "+";
+    position: absolute;
+    background-color: #000000;
+    border-radius: 70px;
+    top: 0px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 105px;
+    text-align: center;
+    line-height: 70px;
+    color: #ffffff;
+    font-size: 50px;
+}
+.topimage:hover img {
+    opacity: 0.1;
+}
+
+
+.figcap {
+ line-height: 33px;
+ margin-bottom: 44px;
+}
+h1 , p , h4 , h3 , footer {
+  font-family: Garamond, "PT serif" ;
+  padding: 0px;
+  margin: 5px 0px;
+}
+p, li , {
+  font-size:19px;
+}
+h1  {
+  font-size: 63px;
+ margin: 0px;
+ padding:0px;
+ line-height: 66px ;
+}
+.bot {
+  line-height: 44px;
+  margin-bottom: 44px
+}
+.botty {
+margin-bottom: 44px;
+line-height: 44px;
+}
+.byFredrik {
+font-size: 22px;
+margin: 0px 0px 44px 0px;
+padding: 5px 0px 0px 0px;
+line-height: 22px;
+}
+.timcook {
+  float: right;
+  clear: both;
+  margin: 16px 0px 16px 40px;
+}
+.tim-cook2   {
+  border: 2px solid#eeeeee;
+}
+.para {
+
+border-bottom: 2px solid #eeeeee;
+}
+.avatar {
+  margin: 0px;
+  padding: 0px;
+  width: 106px;
+ height: 132px;
+  float: left;
+}
+.avatar {
+  border: 2px solid #eeeeee;
+}
+.bottom {
+  margin-top: 44px;
+
+  height: 132px; 
+  margin-bottom: 66px; 
+}
+
+.fredy {
+  line-height: 22px;
+  width: 618px;
+  float: left;
+  padding-left: 18px;
+}
+.media {
+  width: 106px;
+  height: 44px;
+  padding-left: 18px;
+ float: left;
+}
+.long3 {
+ 
+  border-bottom: 2px solid #eeeeee;
+
+}
+.article {
+overflow: hidden;
+margin-top: 66px;
+width: 746px;
+position: absolute;
+
+}
+.one {
+  padding: 5px;
+}
+div.media, div.one {
+  display: inline-block;
+}
+h3 {
+  font-size: 25px;
+  width: 228px;
+  padding: 4px;
+  margin-bottom: 22px;
+  clear: both;
+}
+.phone {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+.two {
+   margin-right: 5px;
+   border: 2px solid #eeeeee;
+ }
+.story .story1, .story2 {
+  line-height: 29px;
+
+ 
+ 
+ padding: 5px;
+ 
+}
+.box  {
+
+  float: left; 
+  width: 239px;
+  margin-left: 9px;
+}
+
+#rightcolumn {
+   overflow: hidden;
+    margin: 0 auto;
+    padding: 0px;
+    position: relative;
+  width: 338px;
+ float: left;
+ height: 1672px;
+}
+h4 {
+ font-size: 22px;
+}
+.right {
+  margin-bottom: 44px;
+}
+ol{
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+}
+
+.moja {
+  width: 250px;
+ line-height: 66px;
+
+}
+.mbili {
+width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.mbili:before {
+    content:"1.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+  .mbili2 {
+    width: 250px;
+line-height: 33px;
+margin-top: 22px;
+  }
+li.mbili2:before {
+content:"2.";
+    font-size: 40px;
+    display: block;
+    float: left;
+   margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.mbili3  {
+ width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.mbili3:before {
+content:"3.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.mbili4  {
+ width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.mbili4:before {
+content:"4.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.mbili5  {
+ width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.mbili5:before {
+content:"5.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+
+.tatu {
+width: 250px;
+line-height: 22px;
+margin-left: 40px;
+
+}
+.left {
+  margin-left: 0px;
+
+}
+.nne {
+  width: 250px;
+ line-height: 66px;
+ padding: 0px;
+}
+.tano {
+width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.tano:before {
+content:"1.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.tano2 {
+width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.tano2:before {
+content:"2.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.tano3 {
+width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.tano3:before {
+content:"3.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.tano4 {
+width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.tano4:before {
+content:"4.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.tano5 {
+width: 250px;
+line-height: 33px;
+margin-top: 22px;
+}
+li.tano5:before {
+content:"5.";
+    font-size: 40px;
+    display: block;
+    float: left;
+    margin: 9px 9px 0px 0px;
+    height: 65px;
+}
+.sita {
+width: 250px;
+height: 20px;
+padding: 1px 0px;
+margin-bottom: 22px;
+}
+.long { width: 1084px;
+  height: 88px;
+  margin: 0 auto;
+    padding: 0px;
+}
+.foot {
+   margin: 0 auto;
+   width: 1172px;
+   overflow: hidden;
+   position: relative;
+}
+.paddy {
+  text-align: center;
+  line-height: 44px;
+  margin-bottom: 44px;
+  border-top: 2px solid #eeeeee;
+  border-bottom: 2px solid #eeeeee;
+  padding: 8px;
+}
+.padd {
+  padding: 10px 5px 0px 5px;
+  text-decoration: none;
+}
+.lines {
+  line-height: 22px;
+  padding: 5px 0px;
+}
